@@ -5,7 +5,7 @@ A full-stack web application for travel enthusiasts, allowing users to explore d
 - **Backend**: PHP
 - **Database**: MySQL
   # Usage
--1. Register or log in to access booking features.
--2.Explore destinations, read about each location, and view available travel packages.
--3.Use the booking system to reserve packages and plan your trips.
+1: Register or log in to access booking features.
+2: Explore destinations, read about each location, and view available travel packages.
+3: Use the booking system to reserve packages and plan your trips.
 
